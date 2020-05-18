@@ -1,16 +1,16 @@
 {
-    "platform": "Playstation",
-    "account": {
+    "platform": "Xbox"
+    "account": {wаvеツ}
       "deviceID": "",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
-      "backpack": "",
+      "skin": "Pink Ghoul",
+      "backpack": "Galactic Disk",
       "emote": "Floss",
       "emoji": "",
-      "pickaxe": "",
+      "pickaxe": "Raiders Revenge",
       "pet": ""
     },
     "cosmetics_variants": {
